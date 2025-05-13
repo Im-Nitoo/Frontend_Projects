@@ -2,7 +2,7 @@
 
 A modern, responsive website showcasing emotion detection and classification technology using OpenCV and Haar Cascade Classifier. Built with React, TypeScript, and Tailwind CSS.
 
-![Website Preview](https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg)
+![Website Preview](https://emotioni.netlify.app/)
 
 ## Features
 
